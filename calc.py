@@ -39,12 +39,6 @@ def div(a, b):
 def exp(a, b)
 	return a ** b
 
-# Exponent function
-# a -- base
-# b -- exponent
-def exp(a, b)
-	return a ** b
-
 #Modulus function
 #a -- number
 #b -- divisible
